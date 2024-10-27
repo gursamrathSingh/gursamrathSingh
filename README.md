@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gursamrath</h1>
-<h3 align="center">A CS undergrad at Thapar University, Punjab</h3>
+<h3 align="center> CS undergrad at Thapar University, Punjab</h3>
 
 - 🌱 I’m currently learning **Django, OpenCV**
 
